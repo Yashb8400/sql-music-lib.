@@ -1,6 +1,6 @@
-##🎵 Music Store SQL Project 🎶
+🎵 Music Store SQL Project 🎶
 
-##📌 Overview
+📌 Overview
 
 This project is designed to manage and analyze music store data using SQL. It includes raw data from the album2.csv file and an SQL solution script in solution.sql. The dataset contains information on albums, and the SQL solution performs various queries and transformations to derive meaningful insights.
 
